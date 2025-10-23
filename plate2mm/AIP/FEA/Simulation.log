@@ -1,0 +1,10 @@
+﻿Study Static Analysis:1 started: 9/29/2025, 4:04:22 PM
+Number of configurations: 1
+Default mesh: 26546 elements, 46259 nodes
+The deformation is large compared to the model size. Verify that load and constraint settings are appropriately scaled.
+Solution time 33.3s
+Convergence rate: 43.3%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.07  on element 1979 finished: 9/29/2025, 4:05:04 PM
+Total time 0:00:42
+
